@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\bin\Debug\netcoreapp3.1\Algoritimodotnet.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\bin\Debug\netcoreapp3.1\Algoritimodotnet.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\bin\Debug\netcoreapp3.1\Algoritimodotnet.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\bin\Debug\netcoreapp3.1\Algoritimodotnet.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\bin\Debug\netcoreapp3.1\Algoritimodotnet.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\bin\Debug\netcoreapp3.1\Algoritimodotnet.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\obj\Debug\netcoreapp3.1\Algoritimodotnet.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\obj\Debug\netcoreapp3.1\Algoritimodotnet.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\obj\Debug\netcoreapp3.1\Algoritimodotnet.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\obj\Debug\netcoreapp3.1\Algoritimodotnet.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\obj\Debug\netcoreapp3.1\Algoritimodotnet.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\obj\Debug\netcoreapp3.1\Algoritimodotnet.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Algoritimodotnet\obj\Debug\netcoreapp3.1\Algoritimodotnet.genruntimeconfig.cache

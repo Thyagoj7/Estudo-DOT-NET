@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\obj\Debug\netcoreapp3.1\DIO-Solução de problemas em C.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\obj\Debug\netcoreapp3.1\DIO-Solução de problemas em C.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\obj\Debug\netcoreapp3.1\DIO-Solução de problemas em C.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\obj\Debug\netcoreapp3.1\DIO-Solução de problemas em C.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\bin\Debug\netcoreapp3.1\DIO-Solução de problemas em C.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\bin\Debug\netcoreapp3.1\DIO-Solução de problemas em C.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\bin\Debug\netcoreapp3.1\DIO-Solução de problemas em C.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\bin\Debug\netcoreapp3.1\DIO-Solução de problemas em C.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\bin\Debug\netcoreapp3.1\DIO-Solução de problemas em C.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\bin\Debug\netcoreapp3.1\DIO-Solução de problemas em C.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\obj\Debug\netcoreapp3.1\DIO-Solução de problemas em C.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\obj\Debug\netcoreapp3.1\DIO-Solução de problemas em C.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DIO-Solução de problemas em C\obj\Debug\netcoreapp3.1\DIO-Solução de problemas em C.genruntimeconfig.cache

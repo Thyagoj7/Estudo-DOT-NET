@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\bin\Debug\netcoreapp3.1\Aula5Operadores.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\bin\Debug\netcoreapp3.1\Aula5Operadores.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\bin\Debug\netcoreapp3.1\Aula5Operadores.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\bin\Debug\netcoreapp3.1\Aula5Operadores.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\bin\Debug\netcoreapp3.1\Aula5Operadores.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\bin\Debug\netcoreapp3.1\Aula5Operadores.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\obj\Debug\netcoreapp3.1\Aula5Operadores.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\obj\Debug\netcoreapp3.1\Aula5Operadores.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\obj\Debug\netcoreapp3.1\Aula5Operadores.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\obj\Debug\netcoreapp3.1\Aula5Operadores.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\obj\Debug\netcoreapp3.1\Aula5Operadores.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\obj\Debug\netcoreapp3.1\Aula5Operadores.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula5Operadores\obj\Debug\netcoreapp3.1\Aula5Operadores.genruntimeconfig.cache

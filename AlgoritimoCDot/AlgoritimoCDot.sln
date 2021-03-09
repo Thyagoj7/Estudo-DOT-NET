@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritimodotnet", "Algoritimodotnet\Algoritimodotnet.csproj", "{C8F85FF6-5182-4165-A58A-B3F73FF54CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula3 variaveis", "Aula3 variaveis\Aula3 variaveis.csproj", "{5150DE4C-3CEB-4BF6-B6FE-D8ABA1525506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula5Operadores", "Aula5Operadores\Aula5Operadores.csproj", "{B3E387BD-05AE-47CE-8C45-35D0C2E1EC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula6-formatansosaida", "Aula6-formatansosaida\Aula6-formatansosaida.csproj", "{A54F03E8-63B5-4A29-8988-5AE92491C2F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CFB", "CFB", "{48A94069-2C6B-41A9-91E1-883B8ACF7CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO-Solução de problemas em C", "DIO-Solução de problemas em C\DIO-Solução de problemas em C.csproj", "{41B872E4-8BDE-437C-9469-C9159CC482B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DIOSoluçãoDeProblemas", "DIOSoluçãoDeProblemas", "{9D83ED8E-3E55-430A-A661-3E71F4595763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F85FF6-5182-4165-A58A-B3F73FF54CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F85FF6-5182-4165-A58A-B3F73FF54CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F85FF6-5182-4165-A58A-B3F73FF54CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F85FF6-5182-4165-A58A-B3F73FF54CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5150DE4C-3CEB-4BF6-B6FE-D8ABA1525506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5150DE4C-3CEB-4BF6-B6FE-D8ABA1525506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5150DE4C-3CEB-4BF6-B6FE-D8ABA1525506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5150DE4C-3CEB-4BF6-B6FE-D8ABA1525506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E387BD-05AE-47CE-8C45-35D0C2E1EC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E387BD-05AE-47CE-8C45-35D0C2E1EC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E387BD-05AE-47CE-8C45-35D0C2E1EC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E387BD-05AE-47CE-8C45-35D0C2E1EC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54F03E8-63B5-4A29-8988-5AE92491C2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54F03E8-63B5-4A29-8988-5AE92491C2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54F03E8-63B5-4A29-8988-5AE92491C2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54F03E8-63B5-4A29-8988-5AE92491C2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B872E4-8BDE-437C-9469-C9159CC482B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B872E4-8BDE-437C-9469-C9159CC482B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B872E4-8BDE-437C-9469-C9159CC482B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B872E4-8BDE-437C-9469-C9159CC482B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C8F85FF6-5182-4165-A58A-B3F73FF54CD5} = {48A94069-2C6B-41A9-91E1-883B8ACF7CB0}
+		{5150DE4C-3CEB-4BF6-B6FE-D8ABA1525506} = {48A94069-2C6B-41A9-91E1-883B8ACF7CB0}
+		{B3E387BD-05AE-47CE-8C45-35D0C2E1EC2A} = {48A94069-2C6B-41A9-91E1-883B8ACF7CB0}
+		{A54F03E8-63B5-4A29-8988-5AE92491C2F6} = {48A94069-2C6B-41A9-91E1-883B8ACF7CB0}
+		{41B872E4-8BDE-437C-9469-C9159CC482B3} = {9D83ED8E-3E55-430A-A661-3E71F4595763}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD3122D-F1CC-49FB-A89D-10871AD79CA3}
+	EndGlobalSection
+EndGlobal

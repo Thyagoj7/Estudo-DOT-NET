@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\bin\Debug\netcoreapp3.1\Aula6-formatansosaida.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\bin\Debug\netcoreapp3.1\Aula6-formatansosaida.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\bin\Debug\netcoreapp3.1\Aula6-formatansosaida.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\bin\Debug\netcoreapp3.1\Aula6-formatansosaida.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\bin\Debug\netcoreapp3.1\Aula6-formatansosaida.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\bin\Debug\netcoreapp3.1\Aula6-formatansosaida.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\obj\Debug\netcoreapp3.1\Aula6-formatansosaida.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\obj\Debug\netcoreapp3.1\Aula6-formatansosaida.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\obj\Debug\netcoreapp3.1\Aula6-formatansosaida.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\obj\Debug\netcoreapp3.1\Aula6-formatansosaida.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\obj\Debug\netcoreapp3.1\Aula6-formatansosaida.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\obj\Debug\netcoreapp3.1\Aula6-formatansosaida.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Aula6-formatansosaida\obj\Debug\netcoreapp3.1\Aula6-formatansosaida.genruntimeconfig.cache
