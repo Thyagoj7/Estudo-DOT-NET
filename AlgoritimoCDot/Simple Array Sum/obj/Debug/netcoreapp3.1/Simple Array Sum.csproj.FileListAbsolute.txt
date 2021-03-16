@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.genruntimeconfig.cache

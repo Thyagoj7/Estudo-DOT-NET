@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AUla-56 LinkdList/1.0.0": {
+        "runtime": {
+          "AUla-56 LinkdList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AUla-56 LinkdList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

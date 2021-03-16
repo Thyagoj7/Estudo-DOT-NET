@@ -1,0 +1,12 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\obj\Debug\netcoreapp3.1\Hack.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\obj\Debug\netcoreapp3.1\Hack.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\obj\Debug\netcoreapp3.1\Hack.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\bin\Debug\netcoreapp3.1\Hack.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\bin\Debug\netcoreapp3.1\Hack.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\bin\Debug\netcoreapp3.1\Hack.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\bin\Debug\netcoreapp3.1\Hack.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\bin\Debug\netcoreapp3.1\Hack.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\bin\Debug\netcoreapp3.1\Hack.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\obj\Debug\netcoreapp3.1\Hack.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\obj\Debug\netcoreapp3.1\Hack.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Hack\obj\Debug\netcoreapp3.1\Hack.genruntimeconfig.cache

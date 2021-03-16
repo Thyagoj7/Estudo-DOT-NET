@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\bin\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\bin\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\bin\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\bin\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\bin\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\bin\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\obj\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\obj\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\obj\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\obj\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\obj\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\obj\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Solucao-Aritimetica-primeiro\obj\Debug\netcoreapp3.1\Solucao-Aritimetica-primeiro.genruntimeconfig.cache
