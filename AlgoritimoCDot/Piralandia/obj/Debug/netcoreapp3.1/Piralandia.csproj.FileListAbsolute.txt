@@ -1,0 +1,12 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\bin\Debug\netcoreapp3.1\Piralandia.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Piralandia\obj\Debug\netcoreapp3.1\Piralandia.genruntimeconfig.cache

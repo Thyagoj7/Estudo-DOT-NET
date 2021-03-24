@@ -55,6 +55,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array -Vetor - Curso- Progr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bazinga", "Bazinga\Bazinga.csproj", "{2125C7B7-E78D-494F-9810-A2758298DC03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempo de um Evento quarto", "Tempo de um Evento quarto\Tempo de um Evento quarto.csproj", "{6FF05329-FD71-4366-810D-0B79ABB8C44A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piralandia", "Piralandia\Piralandia.csproj", "{F7CCC4F8-1FC1-4E6C-BB28-757DA02844E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{2125C7B7-E78D-494F-9810-A2758298DC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2125C7B7-E78D-494F-9810-A2758298DC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2125C7B7-E78D-494F-9810-A2758298DC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF05329-FD71-4366-810D-0B79ABB8C44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF05329-FD71-4366-810D-0B79ABB8C44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF05329-FD71-4366-810D-0B79ABB8C44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF05329-FD71-4366-810D-0B79ABB8C44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CCC4F8-1FC1-4E6C-BB28-757DA02844E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CCC4F8-1FC1-4E6C-BB28-757DA02844E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CCC4F8-1FC1-4E6C-BB28-757DA02844E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CCC4F8-1FC1-4E6C-BB28-757DA02844E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +178,8 @@ Global
 		{8AB88BC1-431B-4CC7-B196-CAE53461EC9D} = {32348EE5-999F-40B8-A4BD-D8A0EAEFA5C1}
 		{7BC75BA6-1DBC-4134-B80E-5C0CABD43333} = {48A94069-2C6B-41A9-91E1-883B8ACF7CB0}
 		{2125C7B7-E78D-494F-9810-A2758298DC03} = {79BE843B-D462-4521-A8C8-8ECBEEA2C77F}
+		{6FF05329-FD71-4366-810D-0B79ABB8C44A} = {79BE843B-D462-4521-A8C8-8ECBEEA2C77F}
+		{F7CCC4F8-1FC1-4E6C-BB28-757DA02844E5} = {79BE843B-D462-4521-A8C8-8ECBEEA2C77F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0AD3122D-F1CC-49FB-A89D-10871AD79CA3}

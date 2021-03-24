@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\bin\Debug\netcoreapp3.1\Tempo de um Evento quarto.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\bin\Debug\netcoreapp3.1\Tempo de um Evento quarto.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\bin\Debug\netcoreapp3.1\Tempo de um Evento quarto.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\bin\Debug\netcoreapp3.1\Tempo de um Evento quarto.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\bin\Debug\netcoreapp3.1\Tempo de um Evento quarto.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\bin\Debug\netcoreapp3.1\Tempo de um Evento quarto.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\obj\Debug\netcoreapp3.1\Tempo de um Evento quarto.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\obj\Debug\netcoreapp3.1\Tempo de um Evento quarto.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\obj\Debug\netcoreapp3.1\Tempo de um Evento quarto.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\obj\Debug\netcoreapp3.1\Tempo de um Evento quarto.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\obj\Debug\netcoreapp3.1\Tempo de um Evento quarto.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\obj\Debug\netcoreapp3.1\Tempo de um Evento quarto.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Tempo de um Evento quarto\obj\Debug\netcoreapp3.1\Tempo de um Evento quarto.genruntimeconfig.cache

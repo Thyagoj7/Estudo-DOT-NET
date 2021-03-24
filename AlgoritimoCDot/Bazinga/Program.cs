@@ -15,7 +15,7 @@ namespace Bazinga
                 v2 = valores[1];
                 if ((v1.Equals(v2) == true))//complete a solução
                 {
-                    Console.WriteLine("Caso #{i}: De novo!");
+                    Console.WriteLine($"Caso #{i}: De novo!");
                 }
                 else if ((v1 == "tesoura" && v2 == "papel")
                     
