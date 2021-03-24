@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\bin\Debug\netcoreapp3.1\Aula19 pilha Unity.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\bin\Debug\netcoreapp3.1\Aula19 pilha Unity.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\bin\Debug\netcoreapp3.1\Aula19 pilha Unity.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\bin\Debug\netcoreapp3.1\Aula19 pilha Unity.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\bin\Debug\netcoreapp3.1\Aula19 pilha Unity.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\bin\Debug\netcoreapp3.1\Aula19 pilha Unity.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\obj\Debug\netcoreapp3.1\Aula19 pilha Unity.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\obj\Debug\netcoreapp3.1\Aula19 pilha Unity.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\obj\Debug\netcoreapp3.1\Aula19 pilha Unity.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\obj\Debug\netcoreapp3.1\Aula19 pilha Unity.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\obj\Debug\netcoreapp3.1\Aula19 pilha Unity.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\obj\Debug\netcoreapp3.1\Aula19 pilha Unity.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\List Aula57\obj\Debug\netcoreapp3.1\Aula19 pilha Unity.genruntimeconfig.cache

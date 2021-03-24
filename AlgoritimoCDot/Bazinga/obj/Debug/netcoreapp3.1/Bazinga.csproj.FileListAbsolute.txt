@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\bin\Debug\netcoreapp3.1\Bazinga.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Bazinga\obj\Debug\netcoreapp3.1\Bazinga.genruntimeconfig.cache

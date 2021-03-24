@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\List Aula57\\List Aula57.csproj",
-      "projectName": "List Aula57",
-      "projectPath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\List Aula57\\List Aula57.csproj",
+      "projectUniqueName": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\List Aula57\\Pilha DocMicros.csproj",
+      "projectName": "Pilha DocMicros",
+      "projectPath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\List Aula57\\Pilha DocMicros.csproj",
       "packagesPath": "C:\\Users\\ty_jo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\List Aula57\\obj\\",
       "projectStyle": "PackageReference",

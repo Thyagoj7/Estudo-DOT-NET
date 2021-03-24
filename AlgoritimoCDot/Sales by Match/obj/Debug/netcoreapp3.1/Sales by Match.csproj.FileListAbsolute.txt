@@ -1,0 +1,4 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Sales by Match\obj\Debug\netcoreapp3.1\Sales by Match.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Sales by Match\obj\Debug\netcoreapp3.1\Sales by Match.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Sales by Match\obj\Debug\netcoreapp3.1\Sales by Match.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\Sales by Match\obj\Debug\netcoreapp3.1\Sales by Match.csproj.CoreCompileInputs.cache

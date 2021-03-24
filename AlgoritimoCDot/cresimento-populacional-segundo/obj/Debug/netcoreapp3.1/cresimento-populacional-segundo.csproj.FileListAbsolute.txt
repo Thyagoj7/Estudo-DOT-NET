@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\bin\Debug\netcoreapp3.1\cresimento-populacional-segundo.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\bin\Debug\netcoreapp3.1\cresimento-populacional-segundo.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\bin\Debug\netcoreapp3.1\cresimento-populacional-segundo.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\bin\Debug\netcoreapp3.1\cresimento-populacional-segundo.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\bin\Debug\netcoreapp3.1\cresimento-populacional-segundo.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\bin\Debug\netcoreapp3.1\cresimento-populacional-segundo.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\obj\Debug\netcoreapp3.1\cresimento-populacional-segundo.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\obj\Debug\netcoreapp3.1\cresimento-populacional-segundo.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\obj\Debug\netcoreapp3.1\cresimento-populacional-segundo.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\obj\Debug\netcoreapp3.1\cresimento-populacional-segundo.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\obj\Debug\netcoreapp3.1\cresimento-populacional-segundo.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\obj\Debug\netcoreapp3.1\cresimento-populacional-segundo.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\cresimento-populacional-segundo\obj\Debug\netcoreapp3.1\cresimento-populacional-segundo.genruntimeconfig.cache

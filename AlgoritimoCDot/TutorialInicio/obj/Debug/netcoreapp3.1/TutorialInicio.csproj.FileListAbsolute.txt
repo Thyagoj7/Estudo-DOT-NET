@@ -1,0 +1,4 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\TutorialInicio\obj\Debug\netcoreapp3.1\TutorialInicio.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\TutorialInicio\obj\Debug\netcoreapp3.1\TutorialInicio.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\TutorialInicio\obj\Debug\netcoreapp3.1\TutorialInicio.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\TutorialInicio\obj\Debug\netcoreapp3.1\TutorialInicio.csproj.CoreCompileInputs.cache

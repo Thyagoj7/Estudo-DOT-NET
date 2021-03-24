@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Array -Vetor - Curso- Programação -Completo C - Aula 17/1.0.0": {
+        "runtime": {
+          "Array -Vetor - Curso- Programação -Completo C - Aula 17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array -Vetor - Curso- Programação -Completo C - Aula 17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
