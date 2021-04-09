@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\bin\Debug\netcoreapp3.1\MetodosCFB.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\bin\Debug\netcoreapp3.1\MetodosCFB.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\bin\Debug\netcoreapp3.1\MetodosCFB.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\bin\Debug\netcoreapp3.1\MetodosCFB.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\bin\Debug\netcoreapp3.1\MetodosCFB.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\bin\Debug\netcoreapp3.1\MetodosCFB.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\obj\Debug\netcoreapp3.1\MetodosCFB.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\obj\Debug\netcoreapp3.1\MetodosCFB.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\obj\Debug\netcoreapp3.1\MetodosCFB.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\obj\Debug\netcoreapp3.1\MetodosCFB.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\obj\Debug\netcoreapp3.1\MetodosCFB.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\obj\Debug\netcoreapp3.1\MetodosCFB.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\MetodosCFB\obj\Debug\netcoreapp3.1\MetodosCFB.genruntimeconfig.cache
