@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xfoHrYd7PT7yYTl8fSc6qiE33oV3OqUJLKuINxXPPN6gR5TrKSTKvsEA1YyPlYpzhcgdAeG1vJhczYBg5FRtJQ==",
+  "dgSpecHash": "v0vRXxObqOdWNrraENNnSfFhOjCygah2LSMAWHJp+UblB2F0E5YxE6whiDpZ9KG9UE+KuNe7kSXEnRGRt3X4Cw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Aula6-formatansosaida\\Aula6-formatansosaida.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

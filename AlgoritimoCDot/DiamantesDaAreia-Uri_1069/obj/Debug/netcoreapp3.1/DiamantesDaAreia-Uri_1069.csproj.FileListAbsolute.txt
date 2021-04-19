@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\obj\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\obj\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\obj\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\obj\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\bin\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\bin\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\bin\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\bin\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\bin\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\bin\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\obj\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\obj\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimo Dot\AlgoritimoCDot\DiamantesDaAreia-Uri_1069\obj\Debug\netcoreapp3.1\DiamantesDaAreia-Uri_1069.genruntimeconfig.cache

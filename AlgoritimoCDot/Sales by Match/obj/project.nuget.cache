@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fn3zri54O0LB/p9p6B8U1mEIcUjMS0v/YQpSK8MKnj+Z+4R+ysyajLr42CLTVPcNHzJIqooFHlq8plwzdUvRGg==",
+  "dgSpecHash": "cndXmUZU9xcGg4EVjge9KnkpBZIqSVN7I8hFUga+8JE+ZBLzr5YPRJd0H8z/SIz4UkyvqxdY3TFDHc1KfIZA4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Sales by Match\\Sales by Match.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

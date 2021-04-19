@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fEG3R3XXvu+fcPEasy5EcTuPnKSIi2nBEMrZGmVjmiNvsHYpJPwI3gsUKeicigarwp0mVMqAOcXgpOT+Bq8h3w==",
+  "dgSpecHash": "b+NdnEdp9gWlpGHM3MDnz+Baf+j8mUJhIZ0NWAbhkXgqjnhJBEVRhXxH6q8lFOfdtg4c4ufkCTIygH2lDLWp9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Solucao 3 Aumento de Salario\\Solucao 3 Aumento de Salario.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

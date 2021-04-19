@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I0VJwGNgOVKe9ZjsFUJzAe4g/iO5CnKI8DyM0TLd0IbDr5hGEBLo/HogNkHiovOAKqgIlXtKqDMIvrsCx1ZE2A==",
+  "dgSpecHash": "/u4qvY5zU2SJg+Z5asoPWKNufZipnnNgm+b42psTKkaIgGxrw018p1ay270gRXj/fJHxBdP4fXuPB9c2nesBWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Bazinga\\Bazinga.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

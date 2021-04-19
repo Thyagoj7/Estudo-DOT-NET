@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DeM2u1gb4jwCmAV1/Kv823hqN/pN800edC6qKn4bAtHMnBs0U8d/0WWKSPb5rpBAHJa6FLXXDFUbWtUzQd93hA==",
+  "dgSpecHash": "QyQEq1pK1lQ4iQ3YQ6lEwic1xrSQncuACUUT6VcKKWZ1ESqfH2l8UYl4GzkXOF9QmRvhmTWngCqSGF/85PgmaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Uri-1002 AreaDoCirculo\\Uri-1002 AreaDoCirculo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

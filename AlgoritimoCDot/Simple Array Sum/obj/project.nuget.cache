@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0eiUPiuqU0fJFSxQ1TctXUH2j/awyQBi1kVSFnAFls/1oo9LSklN4AUUNF8Lf8uus+jYOW9rxhs0jN3t4j5rOg==",
+  "dgSpecHash": "pgnjwJkfUcgyEIMtpeQFmMFS/ihdZO/wtynNEzXMicqt4LdN5YU69JefuDlzH99y1DqM+7Bt0xXI8v9Ddytzcw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Simple Array Sum\\Simple Array Sum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

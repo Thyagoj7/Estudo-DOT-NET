@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9qSAgVEKHKSSSZuyDjlaW5VS6p7Z/xfuDPTNVcRu1MN10FcUPrgrlJHZIpLzgguKcQGD+z0SV/zcu66DP13+UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\DiamantesDaAreia-Uri_1069\\DiamantesDaAreia-Uri_1069.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

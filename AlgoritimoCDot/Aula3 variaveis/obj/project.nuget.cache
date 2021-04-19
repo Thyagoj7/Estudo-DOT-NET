@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r1F98TzcI4gmGbx5PaCXHtI64w2DcAPF/f3fIL2l0fuqfWsnHps84G3Cikom2SjWbuJTmRhup0nTBiTGYRjrRA==",
+  "dgSpecHash": "yl7hqk7O8lEhlM5GU+J3qwbG54jjBPd2UqkkbzkrbigTHnK0nf4Z/Xspbrj/XNUnCJxKZvrEGKNTEkiCQejHhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Aula3 variaveis\\Aula3 variaveis.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

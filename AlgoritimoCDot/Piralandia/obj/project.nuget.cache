@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j1SSXSvD8Jyc1iREhyXf3xoVN08wd91xwNf8XTrKnIIY9+mFDAk5Wgk4xbR2gXDMY5tlma2wUDJ2qTkKXqYSDw==",
+  "dgSpecHash": "UBJW9Tdgfs9Q6m2G/w9zXD5x+ksFCCPq5+HLrohyaVJyfdJ7hFrOqB50TeTSVTQ8aYn7T/rTgdEUtRKtwqVpdA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Piralandia\\Piralandia.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

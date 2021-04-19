@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ObGtlDh+H3zF3C/5H4yJgLOMkAzhUboatzrOrFF9MzpUyIfrOVIpyKf8XvRHFWTNsIMGz47IfGgJj7AKNejc4g==",
+  "dgSpecHash": "pcVhlEzy19GGbXrUeJZ4TWcZFHp/qVWUuQLtxIOjUi2oM/V727CCnaAkXGXbEq4SfmK3dLz4KetdjNqgigfsPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Algoritimodotnet\\Algoritimodotnet.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

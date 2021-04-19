@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PYn2GpxfFieptWmtyYWa3SrzX1PxDZg9lNLAJCR3pLuYaPfqKnjKrP0QOVxmVY6YC+uAZZ784Ih5KkA3j8dNvA==",
+  "dgSpecHash": "R7e6/botCPZU0GF97HTDVDgwKmWOY/qz4AkLL8k+aG9XLFbJzOubRjSJEj7K39DGhqeQkmhmI8X3DDdfcxozFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Compare the Triplets\\Compare the Triplets.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

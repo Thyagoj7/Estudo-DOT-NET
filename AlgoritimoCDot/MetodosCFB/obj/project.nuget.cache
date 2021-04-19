@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Rufx9PHBHZLdLlJCTomhpt7P/dIC2tvhMrKHwllSn37/mphngwGNmsQjTvRYajnz/vW3nniZLZOrTwvJqabWWQ==",
+  "dgSpecHash": "HzcDLfCkepmImCjS+RK8TquWrhzdR+67Iql4BzhsCGlt9ES8F1ihhI7a+Gl1H2vWsbjLAWu5QUNTM4EtCQYo4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\MetodosCFB\\MetodosCFB.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

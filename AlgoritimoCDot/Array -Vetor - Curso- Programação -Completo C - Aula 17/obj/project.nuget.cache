@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NRnUCtsvZMkAZPVje1E+oF/upmf8f6OdUC7+iUO3o9e8BbkMDeNEO4KWQ0EI4N3Pk9hlzhEVVt4N/RDHC+ic8A==",
+  "dgSpecHash": "Zpu+iYeY9pHc779QXINYumJ+ZQiGpnpA63NaBq7vwq7F+WvrQSNOtaRTH8t8/QJJVOtKH+dxBDEoUPqeNKcDaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Array -Vetor - Curso- Programação -Completo C - Aula 17\\Array -Vetor - Curso- Programação -Completo C - Aula 17.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

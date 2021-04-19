@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UPiqi/Fgp39rLXDYf9w1KMjZR5AQuw35MeBKz2slxRPlAiONjXz1SFUKZmeGGvd6hoBTnF3Y+dVItbWPt/3OzA==",
+  "dgSpecHash": "QPvyy5ui6PDVFeL+vuE5YNl/B3VUXzJYzJN4+I593sLM1bbQc7/vgqAo4+FHCg78YnHhRAnkibJPM3FdbO0isQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\AUla-56 LinkdList\\AUla-56 LinkdList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

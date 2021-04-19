@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5bRoo+U/KaT2xy0uas0sh/4RXF/YYAmiROkeLzWzCI+3Wdp9p/b1kziInHEEyV4xZXExW7PX6LtDBjPB4qf8Mw==",
+  "dgSpecHash": "D/RLICnjx/2COVZ06KDW54M8wmwwR7mHOQ6OtGp9/EnCAxlPwz4ootVRNAISLWjkEHxukpFMdp04jVxpfDUrQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Aula57 Pilha\\Aula57 Pilha.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

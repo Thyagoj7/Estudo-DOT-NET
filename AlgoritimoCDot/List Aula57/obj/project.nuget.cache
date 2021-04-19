@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bvo+p0EjCHotymeFz+VTv9tqkU+RRpCnwDGjCfMwweAyWNkGTttenbhgM9dHE9IKcagdhH65kTxMpQv1QWJV1g==",
+  "dgSpecHash": "XOWPrDAoPdRYcB3UzkXFuyAGhECIp4qMeem4Xb7dfBhU335V+yFWz674HYghBd7uo1OEmMuI1YIgqcVWYaBAGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\List Aula57\\Pilha DocMicros.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

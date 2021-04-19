@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p2I1vpHkFqmd2B5RFegE0W9iyBZmO270HqjSnOryVVSDFhvetYknwG65HN7XfeRAAPqJY7/9+FpgWGhUoH7XKQ==",
+  "dgSpecHash": "66wrrELJm8w4slm2oSL0kx41gVU50msyHh0aLMXNE/L4VKSy/97Sn1/0ZM8OC6lgEMmCt5YSWqL1WZYn+efssA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\Tempo de um Evento quarto\\Tempo de um Evento quarto.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
