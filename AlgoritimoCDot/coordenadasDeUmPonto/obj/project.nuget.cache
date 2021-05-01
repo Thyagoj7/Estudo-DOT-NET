@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3qMS+rKVIFJTE7Zovza6EQBrwG72ElplJyznT2MXuBx0e9LophyC8OZe/qOM3AY94sJAzV+dzrdwDz5u7m7jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ty_jo\\Documents\\Estudo\\Projetos\\Algoritimo Dot\\AlgoritimoCDot\\coordenadasDeUmPonto\\coordenadasDeUmPonto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ty_jo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
