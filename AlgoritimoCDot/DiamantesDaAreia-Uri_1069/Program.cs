@@ -31,22 +31,22 @@ namespace DiamantesDaAreia_Uri_1069
 
                    if (txt == "<")
                     {
-                        esquerda = 0;
+                        esquerda = esquerda+1;
 
-                        esquerda++;
+                       
 
 
 
                     } else if (txt == ">")
                     {
-                        direita = 0;
-                        direita++;
+                        direita = direita+1;
+                        
                     }
                     else if (txt == ".")
 
                     {
-                        ponto = 0;
-                        ponto++;
+                        ponto = ponto+1;
+                       
                     }
 
                     int f = esquerda;
